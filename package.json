@@ -1,0 +1,24 @@
+{
+  "name": "text-replace-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Replace string tokens in a bundle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shijinyu/text-replace-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "replace"
+  ],
+  "author": "shijinyu <sjym90@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shijinyu/text-replace-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/shijinyu/text-replace-webpack-plugin#readme"
+}
