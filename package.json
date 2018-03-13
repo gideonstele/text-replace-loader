@@ -4,7 +4,7 @@
   "description": "Replace string tokens in a bundle.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/shijinyu/text-replace-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/shijinyu/text-replace-webpack-plugin#readme"
+  "homepage": "https://github.com/shijinyu/text-replace-webpack-plugin#readme",
+  "dependencies": {
+    "assign-deep": "^0.4.7",
+    "loader-utils": "^1.1.0",
+    "schema-utils": "^0.4.5"
+  },
+  "devDependencies": {
+    "memory-fs": "^0.4.1",
+    "webpack": "^4.1.1"
+  }
 }
