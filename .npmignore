@@ -1,5 +1,6 @@
 .editorconfig
 .git
 .gitignore
+jest.config.js
 node_modules
 test
