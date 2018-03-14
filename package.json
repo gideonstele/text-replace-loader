@@ -1,5 +1,5 @@
 {
-  "name": "text-replace-webpack-plugin",
+  "name": "text-replace-loader",
   "version": "0.0.1",
   "description": "Replace string tokens in a bundle.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shijinyu/text-replace-webpack-plugin.git"
+    "url": "git+https://github.com/shijinyu/text-replace-loader.git"
   },
   "keywords": [
     "webpack",
@@ -18,9 +18,9 @@
   "author": "shijinyu <sjym90@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shijinyu/text-replace-webpack-plugin/issues"
+    "url": "https://github.com/shijinyu/text-replace-loader/issues"
   },
-  "homepage": "https://github.com/shijinyu/text-replace-webpack-plugin#readme",
+  "homepage": "https://github.com/shijinyu/text-replace-loader#readme",
   "dependencies": {
     "assign-deep": "^0.4.7",
     "loader-utils": "^1.1.0",
