@@ -70,7 +70,8 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-window.add = 'replaceme: hello,dev !';
+window.add = 'replacement: hello,dev !';
+window.foo = 'replace again: hello,dev !';
 
 
 /***/ })
